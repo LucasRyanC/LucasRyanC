@@ -51,7 +51,7 @@ Hi! I'm **Lucas**, a 22-year-old developer based in Brazil. I'm currently studyi
 
 ### 📫 Let's Connect / Vamos conversar?
 * **LinkedIn:** [linkedin.com/in/lucasryanc/](https://www.linkedin.com/in/lucasryanc/)
-* **Email:** lucasryanc.contato@gmail.com (ou o seu e-mail principal)
+* **Email:** lucasryanc@outlook.com
 * **Location:** GO - Brazil 🇧🇷
 
 <div align="center">

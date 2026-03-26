@@ -39,6 +39,7 @@ Hi! I'm **Lucas**, a 22-year-old developer based in Brazil. I'm currently studyi
 | :--- | :--- | :--- |
 | **Brasa & Cia** | 🍖 Landing Page profissional para churrascarias. | [View Repo](https://github.com/LucasRyanC/Restaurante-LP) |
 | **ANIMEFlix** | 🎬 Explorador de animes consumindo a API Jikan. | [View Repo](https://github.com/LucasRyanC/ANIMEFlix) |
+| **WeatherApp** | 🌥️ Previsão do tempo com OpenWeather API. | [View Repo](https://github.com/LucasRyanC/WeatherApp) |
 
 ---
 

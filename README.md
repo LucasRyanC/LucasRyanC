@@ -50,3 +50,11 @@ Hi! I'm Lucas, a 22-year-old developer based in Brazil. I'm currently studying A
 - **LinkedIn:** [linkedin.com/in/lucasryanc/](https://linkedin.com/in/lucasryanc/)
 - **Email:** lucasryanc@outlook.com
 - **Location:** GO - Brazil 🇧🇷
+
+- ---
+
+### 📈 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasRyanC&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Lucas Ryan's Contribution Graph">
+</p>

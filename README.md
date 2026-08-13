@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas Ryan! 👋
+# Hi there, I'm Lucas Ryan!
 **Back-End Developer | Java & Spring Boot | ADS Student | Tech Enthusiast**
 
 ---
@@ -13,7 +13,7 @@ My main focus is the Back-End ecosystem with **Java and Spring Boot**, building 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 * **Back-End:** Java, Spring Boot, Spring Data JPA, RESTful APIs, Arquitetura em 3 Camadas
 * **Database:** PostgreSQL, SQL
 * **Tools & AI:** Git, GitHub, Postman, Swagger (OpenAPI), AI Agents for Dev Productivity
@@ -21,26 +21,26 @@ My main focus is the Back-End ecosystem with **Java and Spring Boot**, building 
 
 ---
 
-### 📊 My Main Projects / Meus Principais Projetos
+###  My Main Projects / Meus Principais Projetos
 
 | Project | Description | Link |
 |---------|-------------|------|
 | **Sistema Bancário - Back-End (Spring Boot)** | 🏦 API RESTful de operações bancárias com persistência em PostgreSQL, Arquitetura em 3 Camadas e tratamento global de exceções. | [View Repo](https://github.com/LucasRyanC/sistema-bancario-web-api) |
-| **Sistema Bancário - Painel Web (Front-End)** | 🖥️ Interface web moderna com Dark Mode dinâmico, consumindo a API bancária via JavaScript e Fetch API. | [View Repo](https://github.com/LucasRyanC/sistema-bancario-front-end) |
+| **Sistema Bancário - Painel Web (Front-End)** | 🖥️ Interface web moderna dinâmica, consumindo a API bancária via JavaScript e Fetch API. | [View Repo](https://github.com/LucasRyanC/sistema-bancario-front-end) |
 | **Sistema Bancário Console (Java)** | 💻 Simulação de Back-End bancário via terminal aplicando POO, Exceções e Coleções puras. | [View Repo](https://github.com/LucasRyanC/SistemaBancario) |
 | **Brasa & Cia** | 🍖 Landing Page profissional desenvolvida para churrascarias. | [View Repo](https://github.com/LucasRyanC/Restaurante-LP) |
 | **ANIMEFlix** | 🎬 Explorador de animes web consumindo a API pública Jikan (JSON/HTTP). | [View Repo](https://github.com/LucasRyanC/ANIMEFlix) |
 
 ---
 
-### 🌱 Currently Learning / Estudando no momento:
+###  Currently Learning / Estudando no momento:
 * Aprofundamento no ecossistema **Spring (Boot, Data JPA, Web)** e integrações Front/Back.
 * Arquitetura de Software, Padrões de Projeto (Design Patterns) e modelagem de Banco de Dados.
 * Projetos freelancer através da Apex Agency.
 
 ---
 
-### 📫 Let's Connect / Vamos conversar?
+###  Let's Connect / Vamos conversar?
 * **LinkedIn:** [linkedin.com/in/lucasryanc/](https://linkedin.com/in/lucasryanc/)
 * **Email:** lucasryanc@outlook.com
 * **Location:** GO - Brazil 🇧🇷

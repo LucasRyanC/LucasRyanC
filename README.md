@@ -36,7 +36,6 @@ My main focus is the Back-End ecosystem with **Java and Spring Boot**, building 
 ###  Currently Learning / Estudando no momento:
 * Aprofundamento no ecossistema **Spring (Boot, Data JPA, Web)** e integrações Front/Back.
 * Arquitetura de Software, Padrões de Projeto (Design Patterns) e modelagem de Banco de Dados.
-* Projetos freelancer através da Apex Agency.
 
 ---
 
